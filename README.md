@@ -30,8 +30,8 @@ The History App is an educational Android application designed to inspire young 
 - No external dependencies are required for this project.
 
 ## Screenshots
-![Screenshot 2024-02-13 222250](https://github.com/KagisoPaul/History-App/assets/159829614/f49b58a1-19a3-4487-897f-79d9945df876)
-
+![History App Image](https://github.com/KagisoPaul/History-App/assets/159829614/63e54b79-3f15-4986-9f81-4497f41a8a67)
+YouTube video: https://youtu.be/WL6PYjhHAUM
 
 
 ## Contact Information
