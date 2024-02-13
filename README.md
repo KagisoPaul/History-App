@@ -11,7 +11,7 @@ The History App is an educational Android application designed to inspire young 
 - Clear Functionality: Includes a clear button to reset the app and start over.
 
 ## Setup Instructions
-1. Clone or Download: Clone or download the project from the [History App GitHub repository](link-to-your-github-repo).
+1. Clone or Download: Clone or download the project from the [History App Repository](https://github.com/KagisoPaul/History-App).
 2. Import into Android Studio: Open Android Studio and import the project.
 3. Build and Run: Build and run the app on an Android emulator or physical device.
 
